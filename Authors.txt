@@ -3,5 +3,5 @@
 ## Authors
 Brent Kitchen
 Ryan Lee
-Matthew Justus
+Matt Justus
 Shawn Callahan
