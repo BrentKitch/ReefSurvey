@@ -1,0 +1,183 @@
+Identification_Information:
+  Citation:
+    Citation_Information:
+      Originator: National Oceanic and Atmospheric Association (NOAA)/National Ocean Service (NOS)/National Centers for Coastal Ocean Science (NCCOS)/Center for Coastal Monitoring and Assessment (CCMA)/Biogeography Branch
+      Publication_Date: 201306
+      Title: Baseline assessment of benthic communities of the Flower Garden Banks (2010 - 2013) using technical diving operations: 2011
+      Publication_Information:
+        Publication_Place: Silver Spring, MD
+        Publisher: NOAA's Ocean Service, National Centers for Coastal Ocean Science (NCCOS)
+      Online_Linkage: http://ccma.nos.noaa.gov/ecosystems/sanctuaries/fgb_nms/
+  Description:
+    Abstract:
+      The proposed work develop baseline information on fish and benthic communities within the Flower Garden Banks National Marine Sanctuary (FGBNMS). Surveys will employ diving, technical diving, ROV, and hydroacoustics technologies for a comprehensive assessment of the fish and benthic habitat communities of the East and West Bank.
+      The FGBNMS represents the northernmost tropical western Atlantic coral reef on the continental shelf and support the most highly developed offshore hard bank community in the region. The complexity of habitats supports a diverse assemblage of organisms including approximately 250 species of fish, 23 species of coral, and 80 species of algae in addition to large sponge communities. Understanding and monitoring these resources is critical to both sanctuary inventory and management activities.
+      During the course of the sanctuary's management plan review process, the impact of fishing was identified as a priority issue, and the concept of a research only area was suggested. The purpose of this project will be to provide baseline data for all benthic habitats and communities.
+    Purpose: 1) To design an appropriate sampling and monitoring strategies for fish and benthic community sampling, as well as data collection, during the first year funding,  2) during  subsequent years, focus on refinement of the sampling strategies and continuing to build on the baseline dataset, 3) groundtruthing and collection of underwater imagery and video to improve existing map products, 4) the banks begin at 150m depth and reach to within 17m of the water's surface, therefore multiple survey techniques will need to be employed using a random stratified sampling design. An ROV will be utilized to survey the deeper water communities, a combination of divers and technical divers will survey the banks down to ~50m, and ship-based hydroacoustics will be utilized to survey fish densities over the entire depth range; and 5) to analyze the information gathered to help guide sanctuary resource management decisions.
+    Supplemental_Information: This work is being conducted in collaboration with the Flower Garden Banks National Marine Sanctuary (FGBNMS), Center for Coastal Fisheries and Habitat Research (CCFHR), NOAA's Center for Coastal Environment and Health and Biomolecular Research (CCEHBR), NOAA's Cooperative Institute for Ocean Exploration, Research and Technology (CIORET).
+  Time_Period_of_Content:
+    Time_Period_Information:
+      Range_of_Dates/Times:
+        Beginning_Date: 201008
+        Ending_Date: 201210
+    Currentness_Reference: Ground Condition
+  Status:
+    Progress: Complete
+    Maintenance_and_Update_Frequency: as needed
+  Spatial_Domain:
+    Bounding_Coordinates:
+      West_Bounding_Coordinate: -93.82
+      East_Bounding_Coordinate: -93.59
+      North_Bounding_Coordinate: 27.92
+      South_Bounding_Coordinate: 27.87
+  Keywords:
+    Theme:
+      Theme_Keyword_Thesaurus: CoRIS Discovery Thesaurus
+      Theme_Keyword: Numeric Data Sets > Biology
+    Theme:
+      Theme_Keyword_Thesaurus: CoRIS Theme Thesaurus
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Zoology > Corals > Reef monitoring and assessment > Baseline studies
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Zoology > Corals > Reef monitoring and assessment > Benthos analysis
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Zoology > Corals > Reef monitoring and assessment > Benthos analysis > Transect monitoring
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Zoology > Corals > Reef monitoring and assessment > Benthos analysis > Transect monitoring > Belt transect
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Zoology > Corals > Reef monitoring and assessment > Benthos analysis > Quadrat monitoring
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Zoology > Corals > Reef monitoring and assessment > Benthos analysis > Quadrat monitoring > In situ
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Zoology > Corals > Reef monitoring and assessment > Rapid assessment studies
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Zoology > Corals > Reef monitoring and assessment > In situ biological
+      Theme_Keyword: EARTH SCIENCE > Oceans > Marine Biology > Marine Invertebrates > Census > Population density
+      Theme_Keyword: EARTH SCIENCE > Oceans > Marine Biology > Marine Invertebrates > Macroinvertebrates
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Vegetation > Algae > Algal cover
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Vegetation > Algae > Calcareous macroalgae
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Vegetation > Algae > Coralline algae
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Vegetation > Algae > Crustose coralline algae
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Vegetation > Algae > Encrusting macroalgae
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Vegetation > Algae > Fleshy macroalgae
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Vegetation > Algae > Turf algae
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Zoology > Corals
+      Theme_Keyword: EARTH SCIENCE > Oceans > Coastal Processes > Coral Reefs
+      Theme_Keyword: EARTH SCIENCE > Oceans > Coastal Processes > Coral Reefs > Coral reef ecology > Biodiversity
+      Theme_Keyword: EARTH SCIENCE > Oceans > Coastal Processes > Coral Reefs > Coral reef ecology > Coral cover
+      Theme_Keyword: EARTH SCIENCE > Oceans > Coastal Processes > Coral Reefs > Coral reef ecology > Hard coral cover
+      Theme_Keyword: EARTH SCIENCE > Oceans > Coastal Processes > Coral Reefs > Coral reef ecology > Hard coral cover Live percentage
+      Theme_Keyword: EARTH SCIENCE > Oceans > Coastal Processes > Coral Reefs > Coral reef ecology > Hard coral cover Dead percentage
+      Theme_Keyword: EARTH SCIENCE > Oceans > Coastal Processes > Coral Reefs > Coral reef ecology > Octocoral cover
+      Theme_Keyword: EARTH SCIENCE > Oceans > Coastal Processes > Coral Reefs > Coral reef ecology > Rugosity
+      Theme_Keyword: EARTH SCIENCE > Oceans > Coastal Processes > Coral Reefs > Coral reef ecology > Biodiversity
+      Theme_Keyword: EARTH SCIENCE > Oceans > Coastal Processes > Coral Reefs > Coral reef ecology > Habitats
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Zoology > Corals > Coral Diseases
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Aquatic Habitat > Reef Habitat > Description
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Aquatic Habitat > Benthic Habitat
+      Theme_Keyword: EARTH SCIENCE > Biosphere > Zoology > Corals > Coral Diseases > Bleaching
+    Theme:
+      Theme_Keyword_Thesaurus: ISO 19115 Topic Category
+      Theme_Keyword: biota
+      Theme_Keyword: 002
+      Theme_Keyword: environment
+      Theme_Keyword: 007
+      Theme_Keyword: oceans
+      Theme_Keyword: 014
+    Place:
+      Place_Keyword_Thesaurus: CoRIS Place Thesaurus
+      Place_Keyword: OCEAN BASIN > Atlantic Ocean > Gulf of Mexico > Flower Garden Banks > East Flower Garden Banks (27N093W0001)
+      Place_Keyword: COUNTRY/TERRITORY > United States of America > Texas > East Flower Garden Banks (27N093W0001)
+      Place_Keyword: OCEAN BASIN > Atlantic Ocean > Gulf of Mexico > Flower Garden Banks > West Flower Garden Banks (27N093W0002)
+      Place_Keyword: COUNTRY/TERRITORY > United States of America > Texas > West Flower Garden Banks (27N093W0002)
+  Access_Constraints: None
+  Use_Constraints: Please reference NOAA/NCCOS/CCMA/Biogeography Branch when utilizing these data in a report or peer reviewed publication.  Additionally, knowledge of how this dataset has been of use and which organizations are utilizing it is of great benefit for ensuring this information continues to meet the needs of the management and research communities. Therefore, it is requested but not mandatory, that any user of these data supply this information to the Principle Investigator: Randy Clark (email: randy.clark@noaa.gov).
+  Point_of_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA/NCCOS/CCMA/Biogeography Branch
+      Contact_Position: Flower Garden Banks Project Principle Investigator-Randy Clark
+      Contact_Address:
+        Address_Type: Mailing and Physical Address
+        Address: 1021 Balch Blvd, Suite 1003
+        City: Stennis Space Center
+        State_or_Province: MS
+        Postal_Code: 39529
+        Country: USA
+      Contact_Voice_Telephone: 228-688-3732
+      Contact_Electronic_Mail_Address: randy.clark@noaa.gov
+      Hours_of_Service: 9:00 - 5:00
+  Data_Set_Credit: This is a cooperative effort between NOAA/NCCOS/CCMA Biogeography Branch, NOAA's National Marine Sanctuaries Program and Texas A&M Galveston
+Data_Quality_Information:
+  Logical_Consistency_Report: Not applicable
+  Completeness_Report: These data consists of percent cover, abundance, size, and composition of benthic communities of the coral caps within the Flower Garden Banks National Marine Sanctuary (FGBNMS) at depths between 110 and 150 feet.  For 2011, sites were randomly selected within strata (East and West Bank, low and high relief coral).
+  Lineage:
+    Process_Step:
+      Process_Description:
+        A stratified random sampling design was employed to sample fish on the deep coral cap communities of the East and West Flower Garden Banks.  The survey domain at each coral cap was designated as all hard bottom areas between 110 and 150 feet.  Fine-scale (0.5 m) bathymetric data provided by the Flower Garden Banks National Marine Sanctuary was used to ascertain depths and slope.  Survey sites were then randomly positioned in each stratum in ArcGIS (ESRI, 2006).  A sample frame consisting of mutually-exclusive 50m X 50m grid cells was produced and overlaid on each coral cap to exhaustively cover all diveable areas. Each grid cell was considered a sample unit and units were divided into six strata.  Strata were defined using benthic habitat and location. High (dominated by plate and head corals) and low relief (dominated by Madracis and rubble) coral categories were determined using a benthic habitat map generated by visual interpretation of multibeam data. Data were collected within 100m2 transects.  Transects radiated from the centroid of each sample unit at a random bearing.
+        Once in the field, the boat captain navigated to previously selected sites using a handheld GPS unit.  On-site, divers were deployed and maintained contact with each other throughout the entire census.  One diver was responsible for collecting data on benthic composition.  This diver followed the belt-transect fish diver and recorded data on small-scale benthic habitat composition and structure within a 1m2 quadrat divided into 100 (10 x 10cm) squares at 4 separate positions along the transect.  Each position was randomly chosen before entering the water such that there was one random point within every 6m interval along the transect.  Percent cover was obtained as if looking at the quadrat in a two dimensional plane (i.e. a photograph) vs. three dimensions where percent cover could add up to greater than 100%.  To estimate percent cover, the diver first positioned the quadrat at the chosen meter mark along a randomly chosen side of the transect tape. The remaining quadrats were placed on alternating sides of the transect at the last three locations.
+        Data were collected on the following:
+        1) Logistic information - diver name, dive buddy, date, time of survey, site code, and meter numbers at which the quadrat is placed.
+        2) Habitat structure - To characterize the benthic habitats of the dive site, the habitat diver identified the percentage of high- and low relief coral structure within a 25m radius circle of the centroid of the sampling unit.
+        3) Transect depth profile - the depth at each quadrat position. Depth is measured with a digital depth gauge to the nearest 1ft.
+        4) Abiotic footprint - defined as the percent cover (to the nearest 1%) of sand, rubble, hard bottom, fine sediments, and other non-living bottom types within a 1m2 quadrat. Rubble refers to rocks and coral fragments that are moveable; immovable rocks are considered hard bottom.  The percent cover given as a part of the abiotic footprint should total 100%.  In a hard coral area for example, despite the fact that living hard corals may provide 50% cover the underlying substrate is 100% hard substrate so this is what is recorded.  The diver then estimates the height (in centimeters) of the hardbottom within each quadrat from the substrate to get a sense of bottom relief.
+        5) Biotic footprint - defined as the percent cover (to the nearest 0.1%) of macroalgae, live corals, sponges, gorgonians, and other biota (tunicates, anemones, zooanthids and hydroids) within a 1m2 quadrat. The remaining cover is recorded as bare substrate to bring the total to 100%.  Again, the diver must use a planar view to estimate percent cover of the biota.  Species covering less than 0.1% of the area are not recorded.  Taxa are identified to the following levels: stony coral-species, algae-morphological group (macro, turf, crustose), sponge-morphological group, and gorgonians-morphological group.  For stony corals, the approximate area covered by living coral tissue is recorded. Coral skeleton (without living tissue) is usually categorized as turf algae or uncolonized substrate. Data on the condition of coral colonies are also recorded.  When coral is noticeably bleached, the entire colony is considered affected and is recorded to the nearest 0.1%.  Diseased/dead coral refers to coral skeleton that has recently lost living tissue because of disease or damage, and has not yet been colonized by turf algae. Turf algae include a mix of short (less than 1cm high) algae that colonize dead coral substrate.
+        6) Maximum canopy height - for each soft biota type (e.g., gorgonians, sponges-except encrusting form, algae), maximum height is recorded to the nearest 1cm.
+        7) Abundance of queen conchs (Strombus gigas) - conch encountered within the 25m x 4m belt transect are enumerated.
+        8) Abundance of spiny lobsters (Panulirus argus) - a count of the total number of lobsters encountered within the 25m x 4m belt transect.
+        9) Abundance of long-spined urchin (Diadema antillarium) - a count of the total number of urchins encountered within the 25m x 4m belt transect.
+        10) Photos - 2 photos are taken in opposite directions at each location to document the surrounding habitat.  Additional photos may be taken to document disease, bleaching or other events of note.
+        11) Marine debris - type of marine debris within the transect is noted.  The size of the marine debris and area of habitat that it is affecting is also recorded along with a note identifying any flora or fauna that has colonized it.
+      Process_Date: 201210
+Spatial_Reference_Information:
+  Horizontal_Coordinate_System_Definition:
+    Geographic:
+      Latitude_Resolution: 0.00001
+      Longitude_Resolution: 0.00001
+      Geographic_Coordinate_Units: Decimal degrees
+Entity_and_Attribute_Information:
+  Overview_Description:
+    Entity_and_Attribute_Overview: We supply percent cover, abundance, size, and composition of benthic communities across all diveable portions of the coral caps within the Flower Garden Banks National Marine Sanctuary (FGBNMS).  In addition, we provide photographs of many of the taxa.  For specific information please see the data dictionary available on the database website.
+    Entity_and_Attribute_Detail_Citation: NOAA/NCCOS/CCMA/Biogeography Branch
+Distribution_Information:
+  Distributor:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA/NCCOS/CCMA/Biogeography Branch
+      Contact_Position: Caribbean Coral Reef Ecosystem Monitoring Database Manager
+      Contact_Address:
+        Address_Type: Mailing and Physical Address
+        Address: 1305 East-West Hwy. (SSMC4, N/SCI-1)
+        City: Silver Spring
+        State_or_Province: MD
+        Postal_Code: 20910
+        Country: USA
+      Contact_Voice_Telephone: 301-713-3028
+      Contact_Electronic_Mail_Address: tom.mcgrath@noaa.gov
+      Hours_of_Service: 9:00 - 5:00
+  Resource_Description: Downloadable Data
+  Distribution_Liability:
+    These data were prepared by an agency of the United States Government. Neither the United States Government nor any agency thereof, nor any of their employees, make any warranty, expressed or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or usefulness of any information, apparatus, product, or process disclosed, or represents that its use would not infringe privately owned rights. Reference therein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. Any views and opinions expressed herein do not necessarily state or reflect those of the United States Government or any agency thereof. Although all data have been used by NOAA, no warranty, expressed or implied, is made by NOAA as to the accuracy of the data and/or related materials. The act of distribution shall not constitute any such warranty, and no responsibility is assumed by NOAA in the use of these data or related materials.
+    NOAA makes no warranty regarding these data, expressed or implied, nor does the fact of distribution constitute such a warranty. NOAA can not assume liability for and damages caused by any errors or omissions in these data, nor as a result of the failure of these data to function on a particular system.
+  Standard_Order_Process:
+    Digital_Form:
+      Digital_Transfer_Information:
+        Format_Name: tab delimited text file
+      Digital_Transfer_Option:
+        Online_Option:
+          Computer_Contact_Information:
+            Network_Address:
+              Network_Resource_Name: http://www8.nos.noaa.gov/bpdmWeb/queryMain.aspx
+    Fees: None
+Metadata_Reference_Information:
+  Metadata_Date: 20140805
+  Metadata_Review_Date: 20111217
+  Metadata_Contact:
+    Contact_Information:
+      Contact_Organization_Primary:
+        Contact_Organization: NOAA/NCCOS/CCMA/Biogeography Branch
+      Contact_Position: Flower Garden Banks Project Principle Investigator-Randy Clark
+      Contact_Address:
+        Address_Type: Mailing and Physical Address
+        Address: 1021 Balch Blvd, Suite 1003
+        City: Stennis Space Center
+        State_or_Province: MS
+        Postal_Code: 39529
+        Country: USA
+      Contact_Voice_Telephone: 228-688-3732
+      Contact_Electronic_Mail_Address: randy.clark@noaa.gov
+      Hours_of_Service: 9:00 - 5:00
+  Metadata_Standard_Name: Content Standard for Digital Geospatial Metadata
+  Metadata_Standard_Version: FGDC-STD-001-1998
