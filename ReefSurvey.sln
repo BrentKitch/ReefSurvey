@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ReefSurvey", "ReefSurvey\ReefSurvey.csproj", "{66FF0BF4-C1CD-4F9A-B206-3D322EAC0C28}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReefSurvey.Model", "ReefSurvey.Model\ReefSurvey.Model.csproj", "{5700F367-C767-4ECF-97F5-946ACA70E4B4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66FF0BF4-C1CD-4F9A-B206-3D322EAC0C28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66FF0BF4-C1CD-4F9A-B206-3D322EAC0C28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66FF0BF4-C1CD-4F9A-B206-3D322EAC0C28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66FF0BF4-C1CD-4F9A-B206-3D322EAC0C28}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5700F367-C767-4ECF-97F5-946ACA70E4B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5700F367-C767-4ECF-97F5-946ACA70E4B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5700F367-C767-4ECF-97F5-946ACA70E4B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5700F367-C767-4ECF-97F5-946ACA70E4B4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {71AF5669-65FE-4D21-AC55-292C1F633894}
+	EndGlobalSection
+EndGlobal
