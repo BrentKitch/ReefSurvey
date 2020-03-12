@@ -1,7 +1,7 @@
 CREATE TABLE [Fish] (
   [FishId] int PRIMARY KEY IDENTITY(1, 1),
   [ScientificNameID] int,
-  [TrophicID] nvarchar(255)
+  [TrophicID] int
 )
 GO
 
@@ -75,8 +75,8 @@ GO
 
 CREATE TABLE [Location] (
   [LocationId] int PRIMARY KEY IDENTITY(1, 1),
-  [Latitude] double,
-  [Longitude] double,
+  [Latitude] float,
+  [Longitude] float,
   [StudyAreaId] int
 )
 GO
