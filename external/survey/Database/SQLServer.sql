@@ -1,3 +1,4 @@
+
 CREATE TABLE [Fish] (
   [FishId] int PRIMARY KEY IDENTITY(1, 1),
   [ScientificNameID] int,
