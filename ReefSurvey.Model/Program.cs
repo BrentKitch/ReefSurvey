@@ -6,7 +6,7 @@ namespace ReefSurvey.Model
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           
         }
     }
 }
