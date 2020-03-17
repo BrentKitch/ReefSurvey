@@ -1,0 +1,2 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Housekeeping/ProjectModelSynchronizer/ProjectGuidsToAssemblyReferenceList/=7993DFF559EF1047B246A0F130141C02/@EntryIndexedValue">B:\GitHub\ReefSurvey\ReefSurvey.Model\ReefSurvey.Model.csproj</s:String></wpf:ResourceDictionary>
