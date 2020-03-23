@@ -1,0 +1,5 @@
+Region,SubRegion,StudyArea,SurveyYear,BatchCode,SurveyIndex,SurveyDate,Latitude,Longitude,Management,StructureType,SpeciesName,CommonName,SpeciesCount,Maturity
+Gulf of Mexico,Flower Garden Banks,East Bank,2006,GULF-FGBS-0900-0600,3582,9/28/2006,27.91251,-93.60159,FGBNMS,HARD                                              ,Panulirus argus,Caribbean Spiny Lobster,1,n/a
+Gulf of Mexico,Flower Garden Banks,East Bank,2006,GULF-FGBS-0900-0600,3582,9/28/2006,27.91251,-93.60159,FGBNMS,HARD                                              ,Panulirus argus,Caribbean Spiny Lobster,1,n/a
+Gulf of Mexico,Flower Garden Banks,East Bank,2006,GULF-FGBS-0900-0600,3583,9/27/2006,27.91038,-93.59974,FGBNMS,HARD                                              ,Diadema antillarum,Long-Spined Urchin,1,n/a
+Gulf of Mexico,Flower Garden Banks,East Bank,2006,GULF-FGBS-0900-0600,3583,9/27/2006,27.91038,-93.59974,FGBNMS,HARD                                              ,Diadema antillarum,Long-Spined Urchin,1,n/a
