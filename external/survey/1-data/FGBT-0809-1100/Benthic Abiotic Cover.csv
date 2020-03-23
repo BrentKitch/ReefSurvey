@@ -1,0 +1,155 @@
+Region,SubRegion,StudyArea,SurveyYear,BatchCode,SurveyIndex,SurveyDate,Latitude,Longitude,Management,StructureType,CoverCode,PercentCover
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6511,8/27/2011,27.87441,-93.81133,FGBNMS,HARD                                              ,HARD,93
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6511,8/27/2011,27.87441,-93.81133,FGBNMS,HARD                                              ,RUBBLE,6
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6511,8/27/2011,27.87441,-93.81133,FGBNMS,HARD                                              ,SAND,1
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6512,8/27/2011,27.87486,-93.81183,FGBNMS,HARD                                              ,HARD,93
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6512,8/27/2011,27.87486,-93.81183,FGBNMS,HARD                                              ,RUBBLE,12
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6512,8/27/2011,27.87486,-93.81183,FGBNMS,HARD                                              ,SAND,1.25
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6513,8/27/2011,27.87515,-93.82099,FGBNMS,HARD                                              ,HARD,74.5
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6513,8/27/2011,27.87515,-93.82099,FGBNMS,HARD                                              ,SAND,0.5
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6514,8/27/2011,27.87524,-93.81995,FGBNMS,HARD                                              ,HARD,99.63
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6514,8/27/2011,27.87524,-93.81995,FGBNMS,HARD                                              ,SAND,0.38
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6515,8/29/2011,27.87526,-93.81946,FGBNMS,HARD                                              ,HARD,100
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6516,8/29/2011,27.87553,-93.81953,FGBNMS,HARD                                              ,HARD,99.75
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6516,8/29/2011,27.87553,-93.81953,FGBNMS,HARD                                              ,SAND,0.25
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6517,8/28/2011,27.87606,-93.81879,FGBNMS,HARD                                              ,HARD,61.75
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6517,8/28/2011,27.87606,-93.81879,FGBNMS,HARD                                              ,RUBBLE,2.5
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6517,8/28/2011,27.87606,-93.81879,FGBNMS,HARD                                              ,SAND,29
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6518,8/28/2011,27.87618,-93.81794,FGBNMS,HARD                                              ,HARD,87
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6518,8/28/2011,27.87618,-93.81794,FGBNMS,HARD                                              ,SAND,13
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6519,8/28/2011,27.87691,-93.815,FGBNMS,HARD                                              ,HARD,98.5
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6519,8/28/2011,27.87691,-93.815,FGBNMS,HARD                                              ,RUBBLE,0.5
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6519,8/28/2011,27.87691,-93.815,FGBNMS,HARD                                              ,SAND,1
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6520,8/28/2011,27.87695,-93.81578,FGBNMS,HARD                                              ,HARD,82.75
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6520,8/28/2011,27.87695,-93.81578,FGBNMS,HARD                                              ,RUBBLE,3.25
+Gulf of Mexico,Flower Garden Banks,West Bank,2011,GULF-FGBT-0809-1100,6520,8/28/2011,27.87695,-93.81578,FGBNMS,HARD                                              ,SAND,14
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6521,8/31/2011,27.9031,-93.59917,FGBNMS,HARD                                              ,HARD,84.75
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6521,8/31/2011,27.9031,-93.59917,FGBNMS,HARD                                              ,RUBBLE,15.25
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6522,8/31/2011,27.90572,-93.60375,FGBNMS,HARD                                              ,HARD,95.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6522,8/31/2011,27.90572,-93.60375,FGBNMS,HARD                                              ,RUBBLE,4.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6523,9/1/2011,27.90711,-93.59621,FGBNMS,HARD                                              ,HARD,100
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6524,9/1/2011,27.90935,-93.59617,FGBNMS,HARD                                              ,HARD,98.75
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6524,9/1/2011,27.90935,-93.59617,FGBNMS,HARD                                              ,RUBBLE,0.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6524,9/1/2011,27.90935,-93.59617,FGBNMS,HARD                                              ,SAND,0.75
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6525,8/31/2011,27.90932,-93.60626,FGBNMS,HARD                                              ,HARD,98.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6525,8/31/2011,27.90932,-93.60626,FGBNMS,HARD                                              ,RUBBLE,0.75
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6525,8/31/2011,27.90932,-93.60626,FGBNMS,HARD                                              ,SAND,0.75
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6526,8/30/2011,27.90977,-93.60581,FGBNMS,HARD                                              ,HARD,99
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6526,8/30/2011,27.90977,-93.60581,FGBNMS,HARD                                              ,RUBBLE,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6527,8/31/2011,27.91021,-93.60671,FGBNMS,HARD                                              ,HARD,100
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6528,8/30/2011,27.91023,-93.6048,FGBNMS,HARD                                              ,HARD,75
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6528,8/30/2011,27.91023,-93.6048,FGBNMS,HARD                                              ,RUBBLE,24.25
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6528,8/30/2011,27.91023,-93.6048,FGBNMS,HARD                                              ,SAND,0.75
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6529,8/23/2011,27.91117,-93.59678,FGBNMS,HARD                                              ,HARD,100
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6530,8/23/2011,27.91207,-93.59718,FGBNMS,HARD                                              ,HARD,100
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6531,8/23/2011,27.9166,-93.59621,FGBNMS,HARD                                              ,HARD,99.25
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6531,8/23/2011,27.9166,-93.59621,FGBNMS,HARD                                              ,RUBBLE,0.25
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6531,8/23/2011,27.9166,-93.59621,FGBNMS,HARD                                              ,SAND,0.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6532,8/23/2011,27.91704,-93.5962,FGBNMS,HARD                                              ,HARD,98.25
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6532,8/23/2011,27.91704,-93.5962,FGBNMS,HARD                                              ,SAND,1.75
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6533,8/30/2011,27.91881,-93.60434,FGBNMS,HARD                                              ,HARD,92
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6533,8/30/2011,27.91881,-93.60434,FGBNMS,HARD                                              ,RUBBLE,0.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6533,8/30/2011,27.91881,-93.60434,FGBNMS,HARD                                              ,SAND,7.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6534,8/30/2011,27.92061,-93.60333,FGBNMS,HARD                                              ,HARD,100
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6535,8/26/2011,27.92108,-93.6013,FGBNMS,HARD                                              ,HARD,100
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6536,8/26/2011,27.92127,-93.59893,FGBNMS,HARD                                              ,HARD,98.25
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6536,8/26/2011,27.92127,-93.59893,FGBNMS,HARD                                              ,RUBBLE,1.75
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6537,8/26/2011,27.92197,-93.60334,FGBNMS,HARD                                              ,HARD,100
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6538,8/26/2011,27.92288,-93.60233,FGBNMS,HARD                                              ,HARD,100
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6539,8/22/2011,27.92289,-93.59927,FGBNMS,HARD                                              ,HARD,99.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6539,8/22/2011,27.92289,-93.59927,FGBNMS,HARD                                              ,RUBBLE,0.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6540,8/24/2011,27.92333,-93.60233,FGBNMS,HARD                                              ,HARD,97.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6540,8/24/2011,27.92333,-93.60233,FGBNMS,HARD                                              ,RUBBLE,2.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6541,8/22/2011,27.9238,-93.59776,FGBNMS,HARD                                              ,HARD,75
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6542,8/22/2011,27.9238,-93.59725,FGBNMS,HARD                                              ,HARD,99.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6542,8/22/2011,27.9238,-93.59725,FGBNMS,HARD                                              ,RUBBLE,0.25
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6542,8/22/2011,27.9238,-93.59725,FGBNMS,HARD                                              ,SAND,0.25
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6543,8/24/2011,27.92469,-93.60132,FGBNMS,HARD                                              ,HARD,100
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6544,8/22/2011,27.92471,-93.59675,FGBNMS,HARD                                              ,HARD,100
+Gulf of Mexico,Flower Garden Banks,East Bank,2011,GULF-FGBT-0809-1100,6545,8/24/2011,27.92515,-93.59879,FGBNMS,HARD                                              ,HARD,100
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,
+,,,,,,,,,,,,

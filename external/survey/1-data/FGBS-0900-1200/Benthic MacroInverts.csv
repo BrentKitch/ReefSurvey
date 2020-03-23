@@ -1,0 +1,9 @@
+Region,SubRegion,StudyArea,SurveyYear,BatchCode,SurveyIndex,SurveyDate,Latitude,Longitude,Management,StructureType,SpeciesName,CommonName,SpeciesCount,Maturity
+Gulf of Mexico,Flower Garden Banks,East Bank,2012,GULF-FGBS-0900-1200,7003,9/3/2012,27.9132,-93.59991,FGBNMS,HARD                                              ,Panulirus argus,Caribbean Spiny Lobster,1,n/a
+Gulf of Mexico,Flower Garden Banks,East Bank,2012,GULF-FGBS-0900-1200,7003,9/3/2012,27.9132,-93.59991,FGBNMS,HARD                                              ,Panulirus argus,Caribbean Spiny Lobster,1,n/a
+Gulf of Mexico,Flower Garden Banks,East Bank,2012,GULF-FGBS-0900-1200,7004,9/4/2012,27.90959,-93.59939,FGBNMS,HARD                                              ,Panulirus argus,Caribbean Spiny Lobster,1,n/a
+Gulf of Mexico,Flower Garden Banks,East Bank,2012,GULF-FGBS-0900-1200,7004,9/4/2012,27.90959,-93.59939,FGBNMS,HARD                                              ,Panulirus argus,Caribbean Spiny Lobster,1,n/a
+Gulf of Mexico,Flower Garden Banks,East Bank,2012,GULF-FGBS-0900-1200,7007,9/4/2012,27.90779,-93.59887,FGBNMS,HARD                                              ,Diadema antillarum,Long-Spined Urchin,2,n/a
+Gulf of Mexico,Flower Garden Banks,East Bank,2012,GULF-FGBS-0900-1200,7007,9/4/2012,27.90779,-93.59887,FGBNMS,HARD                                              ,Diadema antillarum,Long-Spined Urchin,2,n/a
+Gulf of Mexico,Flower Garden Banks,West Bank,2012,GULF-FGBS-0900-1200,7041,9/5/2012,27.87543,-93.81639,FGBNMS,HARD                                              ,Diadema antillarum,Long-Spined Urchin,4,n/a
+Gulf of Mexico,Flower Garden Banks,West Bank,2012,GULF-FGBS-0900-1200,7041,9/5/2012,27.87543,-93.81639,FGBNMS,HARD                                              ,Diadema antillarum,Long-Spined Urchin,4,n/a

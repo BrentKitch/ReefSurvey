@@ -1,0 +1,1875 @@
+Region,SubRegion,StudyArea,SurveyYear,BatchCode,SurveyIndex,SurveyDate,Latitude,Longitude,Management,StructureType,Family,ScientificName,CommonName,Trophic,Abundance
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus bahianus,ocean Surgeonfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus chirurgus,Doctorfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Holocentridae,Holocentrus rufus,Longspine Squirrelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Labridae,Scarus iseri,Striped Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,58
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus tricolor,Rock Beauty,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Pomacanthidae,Holocanthus UNK,ANGELFISH SP,SI,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Pomacanthidae,Pomacanthus paru,French Angelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,107
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,20
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Serranidae,Epinephelus adscensionis,Rock Hind,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Serranidae,Mycteroperca bonaci,Black Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Serranidae,Mycteroperca venenosa,Yellowfin Grouper,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,110
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,20
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,17
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,200
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Lutjanidae,Lutjanus cyanopterus,Cubera Snapper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Lutjanidae,Lutjanus jocu,Dog Snapper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus tricolor,Rock Beauty,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Pomacanthidae,Pomacanthus paru,French Angelfish,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,500
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,500
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,33
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,21
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Sphyraenidae,Sphyraena barracuda,Great Barracuda,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon ocellatus,Spotfin Butterflyfish,I ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Gobiidae,Gnatholepis thompsoni,Goldspot Goby,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Inermiidae,Emmelichthyops atlanticus,Bonnetmouth,P ,50
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,11
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,55
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,8
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,110
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Lutjanidae,Lutjanus jocu,Dog Snapper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Ostraciidae,Lactophrys triqueter,Smooth Trunkfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,9
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,30
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,11
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,23
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Carangidae,Carangoides ruber,Bar Jack,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,15
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Inermiidae,Emmelichthyops atlanticus,Bonnetmouth,P ,500
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,50
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,30
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,50
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Serranidae,Epinephelus guttatus,Red Hind,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Serranidae,Liopropoma rubre,Peppermint Basslet,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Serranidae,Mycteroperca bonaci,Black Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Serranidae,Mycteroperca tigris,Tiger Grouper,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,35
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus bahianus,ocean Surgeonfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Gobiidae,Gnatholepis thompsoni,Goldspot Goby,H,24
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Labridae,Sparisoma atomarium,Greenblotch Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,94
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Monacanthidae,Cantherhines pullus,Orangespotted Filefish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus tricolor,Rock Beauty,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Pomacanthidae,Pomacanthus paru,French Angelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,36
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,72
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,102
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Serranidae,Cephalopholis fulva,Coney,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,50
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus chirurgus,Doctorfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Diodontidae,Diodon holocanthus,Balloonfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,8
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,40
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,8
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,8
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,9
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus bahianus,ocean Surgeonfish,H,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Diodontidae,Diodon holocanthus,Balloonfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Labridae,Scarus iseri,Striped Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Pomacanthidae,Centropyge argi,Cherubfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus ciliaris,Queen Angelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Pomacanthidae,Pomacanthus paru,French Angelfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,18
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,18
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,8
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Serranidae,Epinephelus guttatus,Red Hind,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Sphyraenidae,Sphyraena barracuda,Great Barracuda,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Holocentridae,Holocentrus rufus,Longspine Squirrelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,12
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,44
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,53
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Ostraciidae,Lactophrys triqueter,Smooth Trunkfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Serranidae,Mycteroperca tigris,Tiger Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,14
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,11
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Chaetodontidae,Prognathodes aculeatus,Longsnout Butterflyfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Diodontidae,Diodon holocanthus,Balloonfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Holocentridae,Holocentrus rufus,Longspine Squirrelfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Inermiidae,Emmelichthyops atlanticus,Bonnetmouth,P ,390
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Lutjanidae,Lutjanus griseus,Gray Snapper,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Lutjanidae,Lutjanus jocu,Dog Snapper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus ciliaris,Queen Angelfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Pomacanthidae,Pomacanthus paru,French Angelfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,23
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,107
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,31
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,15
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Serranidae,Dermatolepis inermis,Marbeled Grouper,P ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Serranidae,Epinephelus adscensionis,Rock Hind,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Serranidae,Epinephelus guttatus,Red Hind,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Sphyraenidae,Sphyraena barracuda,Great Barracuda,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,11
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus bahianus,ocean Surgeonfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Carangidae,Carangoides ruber,Bar Jack,P,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Gobiidae,Gnatholepis thompsoni,Goldspot Goby,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,50
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Labridae,Sparisoma atomarium,Greenblotch Parrotfish,H,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,62
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Ostraciidae,Acanthostracion polygonius,Honeycomb Cowfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus ciliaris,Queen Angelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus tricolor,Rock Beauty,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,14
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,9
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,50
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon ocellatus,Spotfin Butterflyfish,I ,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,50
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,35
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,35
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,15
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Gobiidae,Gnatholepis thompsoni,Goldspot Goby,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Labridae,Sparisoma atomarium,Greenblotch Parrotfish,H,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,163
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Lutjanidae,Lutjanus jocu,Dog Snapper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus tricolor,Rock Beauty,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,243
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Pomacentridae,Stegastes leucostictus,Beaugregory,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,55
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Serranidae,Serranus species,seabasses,PL/I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Labridae,Halichoeres maculipinna,Clown Wrasse,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Labridae,Scarus iseri,Striped Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Labridae,Sparisoma atomarium,Greenblotch Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,23
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus ciliaris,Queen Angelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,12
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,30
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Stegastes diencaeus,Longfin Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,14
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,17
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus bahianus,ocean Surgeonfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Carangidae,Carangoides ruber,Bar Jack,P,12
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon ocellatus,Spotfin Butterflyfish,I ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Chaetodontidae,Prognathodes aculeatus,Longsnout Butterflyfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Gobiidae,Elacatinus evelynae,Sharknose Goby,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,94
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,8
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Lutjanidae,Lutjanus jocu,Dog Snapper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Ostraciidae,Lactophrys triqueter,Smooth Trunkfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus tricolor,Rock Beauty,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Pomacanthidae,Pomacanthus paru,French Angelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,15
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,55
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,20
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Serranidae,Mycteroperca bonaci,Black Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,15
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus bahianus,ocean Surgeonfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon ocellatus,Spotfin Butterflyfish,I ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Chaetodontidae,Prognathodes aculeatus,Longsnout Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Gobiidae,Coryphopterus personatus/hyalinus,Masked/glass Goby,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Gobiidae,Gnatholepis thompsoni,Goldspot Goby,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,12
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,40
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,42
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,14
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Serranidae,Mycteroperca tigris,Tiger Grouper,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Carangidae,Caranx lugubris,Black Jack,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,12
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,12
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Labridae,Halichoeres radiatus,Puddingwife,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,9
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,27
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,32
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,11
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,32
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,26
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,15
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Carangidae,Carangoides ruber,Bar Jack,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Inermiidae,Emmelichthyops atlanticus,Bonnetmouth,P ,1000
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,65
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,27
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Lutjanidae,Lutjanus griseus,Gray Snapper,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Ostraciidae,Lactophrys triqueter,Smooth Trunkfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Pomacanthidae,Pomacanthus paru,French Angelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,15
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,75
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Pomacentridae,Microspathodon chrysurus,Yellowtail Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Serranidae,Hypoplectrus chlorurus,Yellowtail Hamlet,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Sphyraenidae,Sphyraena barracuda,Great Barracuda,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,11
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon ocellatus,Spotfin Butterflyfish,I ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Gobiidae,Coryphopterus eidolon,Pallid Goby,H ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Holocentridae,Holocentrus rufus,Longspine Squirrelfish,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Inermiidae,Emmelichthyops atlanticus,Bonnetmouth,P ,500
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,155
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,42
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Lutjanidae,Lutjanus jocu,Dog Snapper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,17
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,26
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Sciaenidae,Equetus punctatus,Spotted Drum,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Serranidae,Dermatolepis inermis,Marbeled Grouper,P ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,212
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Serranidae,Serranus tigrinus,Harlequin Bass,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus bahianus,ocean Surgeonfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Carangidae,Carangoides ruber,Bar Jack,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon ocellatus,Spotfin Butterflyfish,I ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Gobiidae,Elacatinus evelynae,Sharknose Goby,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,28
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,12
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Lutjanidae,Lutjanus jocu,Dog Snapper,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,15
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Pomacentridae,Stegastes leucostictus,Beaugregory,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Sphyraenidae,Sphyraena barracuda,Great Barracuda,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Blenniidae,Ophioblennius macclurei,Redlip Blenny,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Chaetodontidae,Prognathodes aculeatus,Longsnout Butterflyfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Cirrhitidae,Amblycirrhitus pinos,Redspotted Hawkfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,30
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Labridae,Halichoeres maculipinna,Clown Wrasse,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,16
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,8
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,31
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,206
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Pomacentridae,Microspathodon chrysurus,Yellowtail Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Pomacentridae,Stegastes diencaeus,Longfin Damselfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,19
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,19
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Sphyraenidae,Sphyraena barracuda,Great Barracuda,P,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,16
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus chirurgus,Doctorfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Chaetodontidae,Prognathodes aculeatus,Longsnout Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Cirrhitidae,Amblycirrhitus pinos,Redspotted Hawkfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,12
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Labridae,Halichoeres maculipinna,Clown Wrasse,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,11
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,16
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,46
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Lutjanidae,Lutjanus griseus,Gray Snapper,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,38
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Pomacentridae,Stegastes diencaeus,Longfin Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,30
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Serranidae,Serranus tigrinus,Harlequin Bass,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,15
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Blenniidae,Ophioblennius macclurei,Redlip Blenny,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Carangidae,Caranx latus,Horse-eye Jack,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon striatus,Banded Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,39
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Labridae,Halichoeres maculipinna,Clown Wrasse,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Labridae,Scarus iseri,Striped Parrotfish,H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,100
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus tricolor,Rock Beauty,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,110
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Pomacentridae,Microspathodon chrysurus,Yellowtail Damselfish,H,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,15
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,31
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Sphyraenidae,Sphyraena barracuda,Great Barracuda,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,15
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Carangidae,Caranx latus,Horse-eye Jack,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Inermiidae,Emmelichthyops atlanticus,Bonnetmouth,P ,20
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,41
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,31
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Labridae,Halichoeres maculipinna,Clown Wrasse,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,74
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Ostraciidae,Lactophrys triqueter,Smooth Trunkfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus ciliaris,Queen Angelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,60
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Pomacentridae,Microspathodon chrysurus,Yellowtail Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,15
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,62
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,12
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Blenniidae,Ophioblennius macclurei,Redlip Blenny,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,35
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,145
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,35
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Pomacanthidae,Pomacanthus paru,French Angelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Pomacentridae,Abudefduf saxatilis,Sergeant Major,I,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,50
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Pomacentridae,Microspathodon chrysurus,Yellowtail Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Pomacentridae,Stegastes adustus,Dusky Damselfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,28
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,14
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,47
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Sphyraenidae,Sphyraena barracuda,Great Barracuda,P,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus bahianus,ocean Surgeonfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Carangidae,Caranx latus,Horse-eye Jack,P,12
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Chaetodontidae,Prognathodes aculeatus,Longsnout Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Gobiidae,Coryphopterus personatus/hyalinus,Masked/glass Goby,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Gobiidae,Gnatholepis thompsoni,Goldspot Goby,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,150
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,60
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Pomacanthidae,Centropyge argi,Cherubfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus tricolor,Rock Beauty,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,11
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,23
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,17
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Serranidae,Epinephelus guttatus,Red Hind,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Serranidae,Mycteroperca tigris,Tiger Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,41
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Blenniidae,Ophioblennius macclurei,Redlip Blenny,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Carangidae,Caranx latus,Horse-eye Jack,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,102
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Labridae,Halichoeres radiatus,Puddingwife,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,58
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,223
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Pomacentridae,Microspathodon chrysurus,Yellowtail Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Serranidae,Mycteroperca tigris,Tiger Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,66
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Sphyraenidae,Sphyraena barracuda,Great Barracuda,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Chaetodontidae,Prognathodes aculeatus,Longsnout Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Gobiidae,Coryphopterus eidolon,Pallid Goby,H ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Gobiidae,Gnatholepis thompsoni,Goldspot Goby,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,316
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,80
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Lutjanidae,Lutjanus griseus,Gray Snapper,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Monacanthidae,Cantherhines pullus,Orangespotted Filefish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,143
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,9
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,8
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,28
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus bahianus,ocean Surgeonfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Blenniidae,Parablennius marmoreus,Seaweed Blenny,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Carangidae,Carangoides ruber,Bar Jack,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Carangidae,Caranx latus,Horse-eye Jack,P,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Cirrhitidae,Amblycirrhitus pinos,Redspotted Hawkfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Gobiidae,Gnatholepis thompsoni,Goldspot Goby,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,10
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Labridae,Sparisoma atomarium,Greenblotch Parrotfish,H,8
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,38
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,87
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,61
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Serranidae,Epinephelus adscensionis,Rock Hind,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Sphyraenidae,Sphyraena barracuda,Great Barracuda,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus chirurgus,Doctorfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Carangidae,Carangoides ruber,Bar Jack,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Gobiidae,Gnatholepis thompsoni,Goldspot Goby,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,8
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Labridae,Halichoeres radiatus,Puddingwife,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Labridae,Sparisoma atomarium,Greenblotch Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,93
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Muraenidae,Gymnothorax moringa,Spotted Moray,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus ciliaris,Queen Angelfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Pomacanthidae,Holacanthus tricolor,Rock Beauty,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,54
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Pomacentridae,Stegastes diencaeus,Longfin Damselfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,48
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Serranidae,Dermatolepis inermis,Marbeled Grouper,P ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Serranidae,Mycteroperca venenosa,Yellowfin Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,62
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Carangidae,Caranx latus,Horse-eye Jack,P,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Chaetodontidae,Prognathodes aculeatus,Longsnout Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Holocentridae,Holocentrus rufus,Longspine Squirrelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Inermiidae,Emmelichthyops atlanticus,Bonnetmouth,P ,300
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Labridae,Bodianus pulchellus,Spotfin Hogfish,I ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,600
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Labridae,Sparisoma atomarium,Greenblotch Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,12
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,6
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,43
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,40
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,20
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,28
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,18
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Serranidae,Dermatolepis inermis,Marbeled Grouper,P ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,600
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Gobiidae,Coryphopterus personatus/hyalinus,Masked/glass Goby,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Gobiidae,Elacatinus oceanops,Neon Goby,I ,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Gobiidae,Gnatholepis thompsoni,Goldspot Goby,H,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Haemulidae,Haemulon melanurum,Cottonwick,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Kyphosidae,Kyphosus sectator,Chub (Bermuda/Yellow),H,45
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Labridae,Scarus taeniopterus,Princess Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Labridae,Sparisoma atomarium,Greenblotch Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,17
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Mullidae,Mulloidichthys martinicus,Yellow Goatfish,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Ostraciidae,Lactophrys triqueter,Smooth Trunkfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Chromis insolata,Sunshinefish,PL ,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,35
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Chromis scotti,Purple Reeffish,PL ,11
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,27
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Pomacentridae,Stegastes variabilis,Cocoa Damselfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Serranidae,Cephalopholis cruentata,Graysby,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Serranidae,Mycteroperca interstitialis,Yellowmouth Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,50
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Sparidae,Calamus nodosus,Knobbed Porgy,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Sphyraenidae,Sphyraena barracuda,Great Barracuda,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,9
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Acanthuridae,Acanthurus coeruleus,Blue Tang,H,7
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Balistidae,Canthidermis sufflamen,Ocean Triggerfish,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Balistidae,Melichthys niger,Black Durgon,H,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Blenniidae,Ophioblennius macclurei,Redlip Blenny,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Chaetodontidae,Chaetodon sedentarius,Reef Butterflyfish,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Labridae,Bodianus rufus,Spanish Hogfish,I,4
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Labridae,Clepticus parrae,Creole Wrasse,PL,21
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Labridae,Halichoeres garnoti,Yellowhead Wrasse,I,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Labridae,Scarus vetula,Queen Parrotfish,H,3
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Labridae,Sparisoma aurofrenatum,Redband Parrotfish,H,5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Labridae,Sparisoma viride,Stoplight Parrotfish,H,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Labridae,Thalassoma bifasciatum,Bluehead,I,23
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Pomacanthidae,Pomacanthus arcuatus,Gray Angelfish,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Pomacentridae,Chromis cyanea,Blue Chromis,PL,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Pomacentridae,Chromis multilineata,Brown Chromis,I,22
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Pomacentridae,Stegastes partitus,Bicolor Damselfish,H,11
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Pomacentridae,Stegastes planifrons,Threespot Damselfish,I,22
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Serranidae,Epinephelus adscensionis,Rock Hind,I,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Serranidae,Mycteroperca tigris,Tiger Grouper,P,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Serranidae,Paranthias furcifer,Atlantic Creolefish,PL,13
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Tetraodontidae,Canthigaster rostrata,Sharpnose Puffer,I,1
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,

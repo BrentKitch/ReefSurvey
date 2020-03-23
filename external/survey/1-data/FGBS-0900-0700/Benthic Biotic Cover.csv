@@ -1,0 +1,596 @@
+Region,SubRegion,StudyArea,SurveyYear,BatchCode,SurveyIndex,SurveyDate,Latitude,Longitude,Management,StructureType,Taxon,PercentCover,DiseasedCover,BleachedCover,Height,Individuals
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Crustose algae,43.475,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Encrusting sponges,1.025,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Macroalgae,29.9,,,1,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Upright sponges,0.1,,,3.75,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Colpophyllia natans,3,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Pseudodiploria strigosa,13.85,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Montastraea cavernosa,0.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Orbicella franksi,6.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4190,9/11/2007,27.90906,-93.60439,FGBNMS,HARD                                              ,Porites astreoides,1.575,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Macroalgae,7.75,,,2.5,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Turf algae,6.575,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Madracis auretenra,66.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4191,9/10/2007,27.90726,-93.60336,FGBNMS,HARD                                              ,Porites astreoides,1.175,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Crustose algae,1.25,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Fire coral,1.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Macroalgae,3,,,3.25,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Turf algae,2.25,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Agaricia agaricites,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Colpophyllia natans,4.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Pseudodiploria strigosa,10,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Montastraea cavernosa,20,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Orbicella faveolata,8.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Orbicella franksi,25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4192,9/10/2007,27.90816,-93.60336,FGBNMS,HARD                                              ,Porites astreoides,2.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Crustose algae,0.975,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Macroalgae,8.8,,,3.25,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Turf algae,0.15,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Colpophyllia natans,12.3,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Pseudodiploria strigosa,23,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Orbicella annularis,16.55,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4193,9/11/2007,27.91042,-93.60338,FGBNMS,HARD                                              ,Orbicella franksi,32.975,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Crustose algae,12.625,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Fire coral,0.05,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Macroalgae,19,,,0.1,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Turf algae,1.25,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Upright sponges,0.15,,,8,1.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Pseudodiploria strigosa,0.3,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Madracis auretenra,15.0075,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Montastraea cavernosa,0.125,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4194,9/10/2007,27.9059,-93.60284,FGBNMS,HARD                                              ,Porites astreoides,14.2,0,0.1,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Crustose algae,18,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Encrusting sponges,0.025,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Macroalgae,31.25,,,1,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Upright sponges,0.525,,,3.75,1
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Montastraea cavernosa,2,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Orbicella franksi,2.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Porites astreoides,6.05,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4195,9/9/2007,27.90681,-93.60284,FGBNMS,HARD                                              ,Stephanocoenia intercepta,0.125,0,0.5,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Crustose algae,16.25,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Encrusting sponges,0.075,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Fire coral,0.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Macroalgae,59.45,,,1,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Upright sponges,0.2,,,1.5,0.75
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Pseudodiploria strigosa,4.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Madracis decactis,3.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Orbicella annularis complex,9.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Porites astreoides,4,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4196,9/10/2007,27.90726,-93.60285,FGBNMS,HARD                                              ,Stephanocoenia intercepta,0.575,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Crustose algae,3.875,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Fire coral,0.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Macroalgae,17.875,,,5.5,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Turf algae,0.25,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Upright sponges,0.375,,,1.5,0.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Agaricia agaricites,0.1,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Colpophyllia natans,0.05,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Pseudodiploria strigosa,3,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Montastraea cavernosa,2,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Orbicella faveolata,13.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Orbicella franksi,36.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Porites astreoides,4.1,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4197,9/10/2007,27.90906,-93.60286,FGBNMS,HARD                                              ,Stephanocoenia intercepta,1.325,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Crustose algae,1,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Fire coral,15.575,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Macroalgae,7.5,,,1.75,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Turf algae,0.25,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Agaricia fragilis,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Colpophyllia natans,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Pseudodiploria strigosa,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Madracis decactis,0.05,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Montastraea cavernosa,16.375,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Orbicella faveolata,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Orbicella franksi,24.875,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Mussa angulosa,0.625,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Porites astreoides,1.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4198,9/10/2007,27.90545,-93.60233,FGBNMS,HARD                                              ,Stephanocoenia intercepta,12.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Crustose algae,20.75,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Encrusting sponges,0.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Hydroids,0.025,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Macroalgae,33.25,,,4.5,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Turf algae,2,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Upright sponges,2.75,,,10,0.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Madracis auretenra,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Montastraea cavernosa,3,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Orbicella franksi,22.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Porites astreoides,8.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4199,9/10/2007,27.90681,-93.60234,FGBNMS,HARD                                              ,Stephanocoenia intercepta,0,0,2.5,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Crustose algae,1.25,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Encrusting sponges,0.075,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Macroalgae,7.125,,,4.5,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Turf algae,0.25,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Agaricia agaricites,0.225,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Pseudodiploria strigosa,19.025,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Madracis decactis,0.6,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Orbicella annularis,6.825,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Montastraea cavernosa,0.825,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Orbicella franksi,54.7,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Porites astreoides,2.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4200,9/11/2007,27.90997,-93.60185,FGBNMS,HARD                                              ,Siderastrea siderea,0.1,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Crustose algae,9.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Encrusting sponges,0.05,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Fire coral,0.875,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Macroalgae,40.575,,,4,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Upright sponges,2.175,,,6.75,2
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Madracis auretenra,2.875,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Montastraea cavernosa,0.05,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Orbicella franksi,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4201,9/9/2007,27.90456,-93.60131,FGBNMS,HARD                                              ,Porites astreoides,3.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Crustose algae,12.95,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Fire coral,0.7,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Macroalgae,11,,,4.25,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Colpophyllia natans,0.875,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Pseudodiploria strigosa,1.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Montastraea cavernosa,4.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Orbicella franksi,43.825,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Porites astreoides,3.7,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4202,9/9/2007,27.90636,-93.60132,FGBNMS,HARD                                              ,Siderastrea radians,0.125,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Crustose algae,7.375,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Fire coral,1.275,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Macroalgae,30,,,1,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Turf algae,8.75,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Upright sponges,0.125,,,1.25,0.5
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Agaricia spp,0.325,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Pseudodiploria strigosa,9.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Orbicella faveolata,5.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Orbicella franksi,34.075,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4203,9/10/2007,27.90726,-93.60133,FGBNMS,HARD                                              ,Porites astreoides,1.525,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Crustose algae,0.375,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Fire coral,0.125,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Macroalgae,4.875,,,1.25,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Agaricia agaricites,0.2,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Colpophyllia natans,22.075,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Pseudodiploria strigosa,5.7,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Montastraea cavernosa,0.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Orbicella franksi,51.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4204,9/11/2007,27.91178,-93.60135,FGBNMS,HARD                                              ,Porites astreoides,0.35,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Crustose algae,3.575,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Macroalgae,17.3,,,5.25,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Agaricia agaricites,0.025,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Pseudodiploria strigosa,2.9,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Madracis decactis,0.1,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Orbicella annularis,37.15,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Orbicella faveolata,23.525,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Orbicella franksi,10.05,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Porites astreoides,1.825,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4205,9/9/2007,27.90591,-93.6003,FGBNMS,HARD                                              ,Porites porites,0.05,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Crustose algae,2.675,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Encrusting sponges,0.1,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Macroalgae,14.25,,,3.75,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Pseudodiploria strigosa,6.775,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Orbicella annularis,1.575,0,3.3,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Montastraea cavernosa,0.35,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Orbicella franksi,24.3,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Mycetophyllia spp,0.075,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Porites astreoides,8.025,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4206,9/10/2007,27.90817,-93.60031,FGBNMS,HARD                                              ,Stephanocoenia intercepta,1.2,0,2.225,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Crustose algae,2,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Fire coral,6.25,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Macroalgae,5.75,,,2.25,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Turf algae,7.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Agaricia agaricites,0.525,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Colpophyllia natans,1.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Pseudodiploria strigosa,2.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Madracis decactis,5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Madracis auretenra,0.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Montastraea cavernosa,4.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Orbicella franksi,45,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Mussa angulosa,7.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Porites astreoides,4,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Scolymia cubensis,0.05,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4207,9/11/2007,27.91314,-93.59983,FGBNMS,HARD                                              ,Stephanocoenia intercepta,2.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Crustose algae,10.55,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Macroalgae,8,,,1.25,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Turf algae,2.875,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Colpophyllia natans,1.125,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Pseudodiploria strigosa,0.125,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Orbicella faveolata,7,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Orbicella franksi,64.15,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Porites astreoides,4.55,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4208,9/9/2007,27.90592,-93.59929,FGBNMS,HARD                                              ,Stephanocoenia intercepta,0,0,0.375,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Crustose algae,4.875,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Encrusting sponges,0.05,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Fire coral,0,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Macroalgae,27.5,,,3,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Turf algae,4.6875,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Agaricia fragilis,0.375,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Colpophyllia natans,2.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Pseudodiploria strigosa,0.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Madracis decactis,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Montastraea cavernosa,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Orbicella faveolata,1,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Orbicella franksi,7,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Mussa angulosa,1.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Porites astreoides,7.25,0,0.25,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Siderastrea radians,0,0,4,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4209,9/11/2007,27.90953,-93.5993,FGBNMS,HARD                                              ,Stephanocoenia intercepta,0.75,0,12.5,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Crustose algae,1.25,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Fire coral,0,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Macroalgae,17.25,,,3,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Turf algae,10.125,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Upright sponges,1.25,,,1.25,0.75
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Agaricia fragilis,0.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Pseudodiploria strigosa,6.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Madracis decactis,0.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Montastraea cavernosa,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Orbicella faveolata,6.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Orbicella franksi,21.45,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Mussa angulosa,0.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Porites astreoides,7.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4210,9/10/2007,27.90592,-93.59878,FGBNMS,HARD                                              ,Stephanocoenia intercepta,1.625,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Crustose algae,0.325,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Fire coral,0,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Macroalgae,8.4,,,4.5,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Turf algae,1.35,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Pseudodiploria strigosa,18.85,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Orbicella annularis,1.475,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Montastraea cavernosa,8.775,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Orbicella faveolata,29.85,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Orbicella franksi,5.3,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4211,9/10/2007,27.90728,-93.59879,FGBNMS,HARD                                              ,Porites astreoides,4.9,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Crustose algae,7.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Fire coral,2.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Macroalgae,8.25,,,1.375,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Turf algae,0.75,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Agaricia fragilis,0.125,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Madracis decactis,0.1,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Montastraea cavernosa,6.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Orbicella franksi,50.45,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Porites astreoides,2.875,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Scolymia cubensis,0.075,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4212,9/11/2007,27.90457,-93.59826,FGBNMS,HARD                                              ,Stephanocoenia intercepta,0.875,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Crustose algae,5.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Encrusting sponges,0.4,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Macroalgae,27.175,,,1.5,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Turf algae,21.05,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Agaricia spp,0.075,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Pseudodiploria strigosa,8.375,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Madracis decactis,0.375,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Orbicella annularis,4.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Montastraea cavernosa,1.625,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Orbicella franksi,13.125,0,1.25,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Porites astreoides,10.625,0,0.075,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Scolymia cubensis,0.1,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4213,9/10/2007,27.90683,-93.59827,FGBNMS,HARD                                              ,Siderastrea radians,0,0,4.25,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Crustose algae,10.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Fire coral,0.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Macroalgae,13.75,,,1.5,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Turf algae,0.75,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Agaricia agaricites,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Pseudodiploria strigosa,0.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Montastraea cavernosa,12.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Orbicella faveolata,22.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Orbicella franksi,24,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Porites astreoides,3.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4214,9/11/2007,27.90457,-93.59776,FGBNMS,HARD                                              ,Stephanocoenia intercepta,1,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Crustose algae,0.975,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Encrusting sponges,2.625,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Macroalgae,9.75,,,2.125,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Turf algae,0.125,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Upright sponges,0.05,,,2.5,0.25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Agaricia agaricites,0.475,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Colpophyllia natans,0.9,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Madracis decactis,2.8,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Montastraea cavernosa,1.625,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Orbicella faveolata,23.125,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Orbicella franksi,1.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Mussa angulosa,1.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Porites astreoides,5.325,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4215,9/10/2007,27.90818,-93.59777,FGBNMS,HARD                                              ,Stephanocoenia intercepta,0.125,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Crustose algae,6.25,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Encrusting sponges,0.025,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Fire coral,3.75,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Macroalgae,9.75,,,3.5,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Turf algae,5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Pseudodiploria strigosa,3,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Helioceris cucullata,0.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Montastraea cavernosa,8.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Orbicella faveolata,4.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Orbicella franksi,35.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Mussa angulosa,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Porites astreoides,7.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4216,9/10/2007,27.90773,-93.59727,FGBNMS,HARD                                              ,Stephanocoenia intercepta,0.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Crustose algae,30,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Encrusting sponges,2.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Macroalgae,20,,,1.25,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Turf algae,3,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Upright sponges,13,,,20,4.75
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Pseudodiploria strigosa,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Madracis auretenra,17.675,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Montastraea cavernosa,0.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Porites astreoides,11,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4217,9/9/2007,27.90458,-93.59674,FGBNMS,HARD                                              ,Stephanocoenia intercepta,0.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Crustose algae,9.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Encrusting sponges,1.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Macroalgae,27.3125,,,2,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Upright sponges,2,,,11.25,3.25
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Pseudodiploria strigosa,5.9375,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Orbicella franksi,3,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Porites astreoides,10.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4218,9/10/2007,27.90548,-93.59624,FGBNMS,HARD                                              ,Stephanocoenia intercepta,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Crustose algae,0.25,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Fire coral,0.375,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Macroalgae,26.075,,,3.75,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Turf algae,0.75,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Agaricia fragilis,0.3,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Colpophyllia natans,2.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Pseudodiploria strigosa,0.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Madracis auretenra,20.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Montastraea cavernosa,19.5,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Orbicella franksi,15.625,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Mussa angulosa,0.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4219,9/11/2007,27.90819,-93.59628,FGBNMS,HARD                                              ,Porites astreoides,1.875,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Crustose algae,3.75,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Fire coral,0.75,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Macroalgae,5.5,,,1,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Turf algae,3.5,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Colpophyllia natans,11.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Montastraea cavernosa,10,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Orbicella franksi,61,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4220,9/9/2007,27.90591,-93.60132,FGBNMS,HARD                                              ,Scolymia cubensis,0.25,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Crustose algae,6.75,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Fire coral,0,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Macroalgae,24.5,,,3,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Turf algae,3.125,,,0,0
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Agaricia spp,0.1,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Colpophyllia natans,8.75,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Pseudodiploria strigosa,0,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Montastraea cavernosa,1.875,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Orbicella franksi,51.375,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Porites astreoides,2.1,0,0.075,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Scolymia cubensis,0.075,0,0,,
+Gulf of Mexico,Flower Garden Banks,East Bank,2007,GULF-FGBS-0900-0700,4221,9/11/2007,27.90952,-93.60235,FGBNMS,HARD                                              ,Stephanocoenia intercepta,0.05,0,0,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
