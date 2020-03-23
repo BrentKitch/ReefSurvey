@@ -3,7 +3,7 @@ using Microsoft.EntityFrameworkCore;
 
 namespace ReefSurvey
 {
-    //public class BloggingContext : DbContext
+    //public class ReefSurveyContext : DbContext
     //{
     //    public DbSet<Blog> Blogs { get; set; }
     //    public DbSet<Post> Posts { get; set; }
