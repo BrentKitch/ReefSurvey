@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Microsoft.EntityFrameworkCore;
 
-namespace EFGetStarted
+namespace ReefSurvey
 {
     //public class BloggingContext : DbContext
     //{
@@ -11,7 +11,37 @@ namespace EFGetStarted
     //    protected override void OnConfiguring(DbContextOptionsBuilder options)
     //        => options.UseSqlite("Data Source=blogging.db");
     //}
+    public class ReefSurveyContext : DbContext
+    {
+        public DbSet<Fish> Fishs { get; set; }
+        public DbSet<FamilyName> FamilyNames { get; set; }
+        public DbSet<ScientificName> ScientificNames { get; set; }
 
+        public DbSet<Trophic> Trophics { get; set; }
+
+        public DbSet<Survey> Surveys { get; set; }
+
+        public DbSet<BatchCode> BatchCodes { get; set; }
+
+        public DbSet<Management> Managements { get; set; }
+
+        public DbSet<StructureType> StructureTypes { get; set; }
+
+        public DbSet<Region> Regions { get; set; }
+
+        public DbSet<SubRegion> SubRegions { get; set; }
+
+        public DbSet<StudyArea> StudyAreas { get; set; }
+
+        public DbSet<Location> Locations { get; set; }
+
+        public DbSet<FishSurvey> FishSurveys { get; set; }
+        protected override void OnConfiguring(DbContextOptionsBuilder options)
+        {
+            options.UseSqlite("Data Source=ReefSurvey2.db");
+        }
+                  
+    }
     public class Fish
     {
         public int FishId { get; set; }
